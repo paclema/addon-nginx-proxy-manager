@@ -15,6 +15,7 @@ hassio_api: true
 ports:
   80/tcp: 80
   81/tcp: 81
+  82/tcp: 82
   443/tcp: 443
 map:
   - addon_config:rw
